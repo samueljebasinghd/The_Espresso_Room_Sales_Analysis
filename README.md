@@ -15,6 +15,12 @@ Through this project, the business owners can understand the key factors contrib
 3. Functions: Pivot Tables, Pivot Charts, Slicers
 4. Formulas: COUNT, SUM, MAX, MIN, AVERAGE, SUBTOTAL, XLOOKUP, VLOOKUP, INDEX, MATCH, and FILTER
 
+## Skills Practiced
+1. Data Cleaning
+2. Data Manipulation
+3. Creating detailed report with calculated columns
+4. Interactive Visualization in Excel
+
 ## Data Profiling
 Data profiling helps us to fix incorrect, incomplete, and duplicate data by identifying the data errors and modifying them by replacing, removing, or updating them with the relevant data. This helps to improve the data quality.
 Here, in this dataset, almost all the fields have cleaned records. However, we have some fields that can be profiled further to increase the quality of the data.
